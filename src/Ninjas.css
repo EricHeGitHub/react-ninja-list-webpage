@@ -1,0 +1,17 @@
+body {
+    background : yellow;
+    transition : all 1s;
+}
+.ninja div {
+    background-color : red;
+    padding : 20px;
+}
+
+
+button {
+    background-color: pink;
+    padding: 12px;
+    border-radius: 2px;
+    width: 100px;
+  }
+  
